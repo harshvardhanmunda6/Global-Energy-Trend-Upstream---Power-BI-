@@ -34,7 +34,7 @@ This repository contains a Power BI report that focuses on Global Energy Trade A
 ## 👤 Author
 
 **Harshvardhan Munda**  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-link)  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/harshvardhan-munda-98141a130/)  
 💼 Aspiring Data Analyst | Power BI | SQL | Python  
 
 
