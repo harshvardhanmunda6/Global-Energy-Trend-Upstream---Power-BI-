@@ -1,6 +1,10 @@
 # Global-Energy-Trend-Upstream---Power-BI-
 This repository contains a Power BI report that focuses on Global Energy Trade Analysis. The report provides comprehensive insights into energy production, consumption, and trade on a global scale. By exploring key business queries, we uncover valuable trends and patterns in the energy industry.
+![stats_dashboard](https://github.com/user-attachments/assets/de99bc22-60d8-4b36-995a-5264810e177a)
 
+![country_dashboard](https://github.com/user-attachments/assets/14ecba18-a689-40ad-bd9c-fe705d949aa3)
+
+![category_details](https://github.com/user-attachments/assets/a82787cf-4bf6-49e4-9d9c-3dfe7d59a899)
 
 ## 🧠 Insights & Observations
 
