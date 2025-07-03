@@ -36,8 +36,6 @@ By comparing production and consumption volumes across different energy categori
 
 To explore the Global Energy Trade Analysis Power BI report, follow these steps:
 
-Clone the Repository: Clone this repository to your local machine using git clone https://github.com/your-username/repository.git.
-
 Install Power BI Desktop: Ensure you have Power BI Desktop installed on your computer. If not, download it from the official Microsoft website.
 
 Dataset : Extract the dataset present in archive.zip
